@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome! RDojo is the University of Southern California Psychology department's R club. We --  primarily graduate students and faculty -- hold bi-weekly meetings that consist of small workshops focused generally on using RStudio for scientific computing. We are a multi-purpose group that shares the belief that the best way to learn something (i.e. R) is to teach it. Accordingly, our workshops range from new user's first forays into data manipulation through advanced statistical modeling.
 
-### More Information
+Some of our general topics are: 
 
-A place to include any other types of information that you'd like to include about yourself.
+* Frequentist and Bayesian statistics
+* Machine learning
+* Simulation
+* Reproducibility
+* and Data visualization
 
-### Contact me
+Each workshop is accompanied by an R notebook and every notebook that we produce will be posted to our blog. 
 
-[email@domain.com](mailto:email@domain.com)
+### Contact the site maintainer
+
+[jehoover@usc.edu](mailto:jehoover@usc.edu)
