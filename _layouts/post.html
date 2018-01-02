@@ -2,6 +2,21 @@
 layout: default
 ---
 
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        <i><a href="{{ author.web }}" target="_blank">{{ author.name }}</a></i>
+    </span>
+{% endif %}
+
+  <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
 <article class="post">
   <h1>{{ page.title }}</h1>
 
@@ -9,9 +24,7 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+
 
   {% include disqus.html %}
 </article>
