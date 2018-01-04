@@ -8,7 +8,7 @@ output:
 ---
 
 ```{r, echo=F}
-knitr::opts_knit$set(base.dir = "~/offline_research/git_repos/usc-rdojo.github.io/", base.url = "~/offline_research/git_repos/usc-rdojo.github.io/")
+knitr::opts_knit$set(base.dir = "~/offline_research/git_repos/usc-rdojo.github.io/", base.url = "/")
 knitr::opts_chunk$set(fig.path = "images/R/")
 
 
@@ -29,3 +29,5 @@ Here's a list of things that you might want to do/be familiar with:
 
 
 * *Spend some time getting comfortable with R & RStudio* There are many good resources for learning R/RStudio. While learning about R/Rstudio is the entire purpose of RDojo, it's useful for everyone to have some degree of familiarity with the basics. You can find a list of excellent introductory resources here <a href='https://www.rstudio.com/online-learning/#R'> 
+
+
