@@ -16,6 +16,5 @@ Some of our general topics are:
 
 Each workshop is accompanied by an R notebook and every notebook that we produce will be posted to our blog. 
 
-### Contact the site maintainer
+### Contact us at [usc-rdojo@usc.edu](mailto:usc-rdojo@usc.edu)
 
-[jehoover@usc.edu](mailto:jehoover@usc.edu)
