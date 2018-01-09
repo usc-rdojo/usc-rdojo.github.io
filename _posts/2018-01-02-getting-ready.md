@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Getting ready for RDojo
+title: Creating an R Notebook
 author: joe_hoover
 ---
 
 One of the primary goals of RDojo is providing value to R users with
-different degrees of expertise. So, you *do not* need to be an expert
+different degrees of expertise. So, you **do not** need to be an expert
 (or anything close) to participate in RDojo -- if you've never used R in
 your life, that's fine!
 
@@ -15,7 +15,7 @@ you can get with a little bit of exploration and elbow grease.
 
 Here's a list of things that you might want to do/be familiar with:
 
--   **Install R and RStudio.** RStudio is a user-friendly program that
+-   *Install R and RStudio.* RStudio is a user-friendly program that
     streamlines working with the statistical computing platform R. Most
     R users (but certainly not all) use RStudio and that's what we will
     be doing at RDojo. To install RStudio, you first have to install R.
@@ -23,7 +23,7 @@ Here's a list of things that you might want to do/be familiar with:
     operating system, so if you run into trouble Google can probably
     help you out.
 
--   **Install Latex** One of the features of RStudio that RDojo will rely
+-   *Install Latex* One of the features of RStudio that RDojo will rely
     on will be the program's capacity for document generation. Using a
     package --an RStudio program-- called `knitr`, you can dynamically
     generate PDF's, html files, and word documents that incorporate
@@ -36,10 +36,10 @@ Here's a list of things that you might want to do/be familiar with:
     more about knitr and generating formatted documents in RStudio here
     <a href ='https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr'>
 
-**NOTE:** *Installing latex requires downloading a large file; you might
-want to do this overnight.*
+*NOTE:* **Installing latex requires downloading a large file; you might
+want to do this overnight.**
 
--   **Spend some time getting comfortable with R & RStudio** There are
+-   *Spend some time getting comfortable with R & RStudio* There are
     many good resources for learning R/RStudio. While learning about
     R/Rstudio is the entire purpose of RDojo, it's useful for everyone
     to have some degree of familiarity with the basics. You can find a
