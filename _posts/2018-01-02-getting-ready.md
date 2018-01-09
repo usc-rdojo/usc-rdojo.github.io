@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating an R Notebook
+title: Getting ready for RDojo
 author: joe_hoover
 ---
 
@@ -32,9 +32,9 @@ Here's a list of things that you might want to do/be familiar with:
     entire manuscripts in RStudio and you'll never have to copy and
     paste a single number from a statistical test. To use `knitr` you
     need to install a formatting language called latex. You can do that
-    here <a href='https://www.latex-project.org/get/'>. You can read
-    more about knitr and generating formatted documents in RStudio here
-    <a href ='https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr'>
+    [here](https://www.latex-project.org/get/). You can read more about
+    knitr and generating formatted documents in RStudio
+    [here](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr).
 
 *NOTE:* **Installing latex requires downloading a large file; you might
 want to do this overnight.**
@@ -43,5 +43,5 @@ want to do this overnight.**
     many good resources for learning R/RStudio. While learning about
     R/Rstudio is the entire purpose of RDojo, it's useful for everyone
     to have some degree of familiarity with the basics. You can find a
-    list of excellent introductory resources here
-    <a href='https://www.rstudio.com/online-learning/#R'>
+    list of excellent introductory resources
+    [here](https://www.rstudio.com/online-learning/#R).
